@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/activity_kullanici.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/activity_maps.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/activity_veriler.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/activity_yonetim.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/list_item.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/yazlab22/app/src/main/res/layout/recycler_row.xml" value="0.21784420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

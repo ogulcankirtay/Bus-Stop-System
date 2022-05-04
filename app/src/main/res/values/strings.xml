@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">yazlab2.2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="ilceler">
+        <item>Umuttepe</item>
+        <item>Başiskele</item>
+        <item>Çayırova</item>
+        <item>Darıca</item>
+        <item>Derince</item>
+        <item>Dilovası</item>
+        <item>Gebze</item>
+        <item>Gölcük</item>
+        <item>Kandıra</item>
+        <item>Karamürsel</item>
+        <item>Kartepe</item>
+        <item>Körfez</item>
+        <item>İzmit</item>
+
+    </string-array>
+
+
+</resources>
